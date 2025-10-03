@@ -1,0 +1,45 @@
+ul{
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+body{
+    font-family: Verdana, sans-serif;
+    background:rgb(255, 255, 255)
+}
+
+#topo{
+
+}
+
+#caixa-conteudo{
+
+}
+ #conteiner{
+    
+
+ }
+ #conteudo{
+    width: 800px;
+    height: 800px;
+
+ }
+ #primario{
+    width: 350px;
+    float: left;
+ }
+
+ #segundario{
+    width: 350px;
+    float:right;
+ }
+
+ .imagem-principal{
+    width: 98%;
+    border: 3px solid black;
+ }
